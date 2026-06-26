@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "A professional and responsive full-stack Employee Management System with JWT authentication, dashboard analytics, searchable employee tables, dark/light modes, and export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
